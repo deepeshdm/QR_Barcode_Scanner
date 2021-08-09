@@ -6,10 +6,10 @@ A QR / Barcode Scanning Android Application Using JAVA.
   </head>
   <body>
    <p float="left">
-  <img src="/Display_Images/image1.jpeg" width="230" height="425" />
-  <img src="/Display_Images/image2.jpeg" width="230" height="425" />
-     <img src="/Display_Images/image3.jpeg" width="230" height="425" /> 
-     <img src="/Display_Images/image4.jpeg" width="230" height="425" /> 
+  <img src="/Display_Images/image1.jpeg" width="220" height="420" />
+  <img src="/Display_Images/image2.jpeg" width="220" height="420" />
+     <img src="/Display_Images/image3.jpeg" width="220" height="420" /> 
+     <img src="/Display_Images/image4.jpeg" width="220" height="420" /> 
 </p>
   </body>
   </html>
