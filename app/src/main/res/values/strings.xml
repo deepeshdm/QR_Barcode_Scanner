@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QR &amp; Barcode Scanner</string>
+
+    <!-- These IDs are for test purpose only-->
+    <string name="APP_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="BANNER_AD_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="NATIVE_AD_ID">ca-app-pub-3940256099942544/2247696110</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
